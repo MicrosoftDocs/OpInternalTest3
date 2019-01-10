@@ -38,6 +38,6 @@
     "fileMetadata": {},
     "template": [],
     "dest": "OpInternalTest3",
-     "markdigEngineName": "markdig"
+     "markdownEngineName": "markdig"
   }
 }
